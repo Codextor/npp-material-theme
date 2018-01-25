@@ -7,7 +7,7 @@ Inspired by Mattia Astorino's Material Theme for [Sublime Text](https://github.c
 
 You can help by reporting issues [here](https://github.com/HiSandy/npp-material-theme/issues)
 
-![Screenshot](https://i.imgur.com/qxCkmAC.jpg)
+![Screenshot](https://i.imgur.com/85UJvYw.jpg)
 
 # Getting started
 
@@ -34,6 +34,7 @@ The theme makes use of the following two fonts:
 Alternately, you can also use the fonts of your choice by changing them in the settings menu after selecting the theme
 
 `Settings -> Style Configurator -> Global override`
+
 `Settings -> Style Configurator -> Line number margin`
 
 # Recommended settings for a better experience <sup>[↑](#getting-started)</sup>
@@ -64,8 +65,9 @@ For a better experience, using the following settings is recommended
 
 <img align="left" width="128" height="128" src="https://i.imgur.com/4flFIjK.png">
 
-<br/><br/>
+<br/><br/><br/>
 [Download Icon](https://drive.google.com/uc?id=1IZLO0br_quw7O3Fd8dtrQjLjP3loK9J-&export=download)
+<br/><br/>
 
 ---
 
