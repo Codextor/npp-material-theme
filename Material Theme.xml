@@ -1362,7 +1362,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Fold active" styleID="0" fgColor="50FA7B" fontStyle="0" bgColor="2F383C" fontSize="" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="65737E" bgColor="263238" fontStyle="0" fontSize="" />
         <WidgetStyle name="White space symbol" styleID="0" fgColor="FFB56A" fontStyle="0" bgColor="56676D" fontSize="" />
-        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="65737E" fontStyle="0" fontSize="" fgColor="E0E2E4" />
+        <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="536b77" fontStyle="0" fontSize="" fgColor="C00000" />
         <WidgetStyle name="Find Mark Style" styleID="31" bgColor="FF0000" fontStyle="0" fgColor="E0E2E4" fontSize="" />
         <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00FFFF" fontStyle="0" fgColor="E0E2E4" />
         <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF8000" fontStyle="0" fgColor="E0E2E4" fontSize="" />
