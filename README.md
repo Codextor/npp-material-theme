@@ -1,4 +1,4 @@
-<p align="center"><img width="240px" src="https://i.imgur.com/4flFIjK.png"/></p>
+<p align="center"><a href="https://github.com/HiSandy/npp-material-theme"><img width="240px" src="https://i.imgur.com/4flFIjK.png"/></a></p>
 
 # Material Theme for Notepad++
 
@@ -63,7 +63,7 @@ For a better experience, using the following settings is recommended
 
 - **AppIcon:** If you're bored of your default Notepad++ icon, you can try this  sleek and modern one created by Piksely. (visit him [`HERE`](http://www.piksely.com/))
 
-<img align="left" width="128" height="128" src="https://i.imgur.com/4flFIjK.png">
+<a href="https://dribbble.com/shots/2897233-Notepad"><img align="left" width="128" height="128" src="https://i.imgur.com/4flFIjK.png"></a>
 
 <br/><br/><br/>
 [Download Icon](https://drive.google.com/uc?id=1IZLO0br_quw7O3Fd8dtrQjLjP3loK9J-&export=download)
