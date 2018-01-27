@@ -5,6 +5,8 @@
 The most epic theme meets Notepad++.
 Inspired by Mattia Astorino's Material Theme for [Sublime Text](https://github.com/equinusocio/material-theme) and [Visual Studio Code](https://github.com/equinusocio/vsc-material-theme).
 
+Check out the theme's website [`HERE`](https://notepadplusplus.wixsite.com/theme)
+
 You can help by reporting issues [`HERE`](https://github.com/HiSandy/npp-material-theme/issues)
 
 ![Screenshot](https://i.imgur.com/85UJvYw.jpg)
