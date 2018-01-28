@@ -73,7 +73,7 @@ For a better experience, using the following settings is recommended
 
 - **Website:** Check out the theme's landing page [`HERE`](https://notepadplusplus.wixsite.com/theme)
 
-- **Dribble:** Have a look at our Dribbble Shot [`HERE`](https://dribbble.com/shots/4155553-Material-Design-Theme-for-Notepad)
+- **Dribbble:** Have a look at our Dribbble Shot [`HERE`](https://dribbble.com/shots/4155553-Material-Design-Theme-for-Notepad)
 
 - **Medium:** Read the article we wrote on Giving Notepad++ a modern makeover [`HERE`](https://medium.com/@HiSandy/notepad-plus-plus-material-theme-2c3951e65e01)
 
