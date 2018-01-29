@@ -34,8 +34,6 @@ Alternately, you can also use the fonts of your choice by changing them in the s
 
 `Settings -> Style Configurator -> Global override`
 
-`Settings -> Style Configurator -> Line number margin`
-
 # Recommended settings for a better experience <sup>[↑](#getting-started)</sup>
 
 For a better experience, using the following settings is recommended
