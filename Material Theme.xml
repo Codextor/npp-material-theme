@@ -1357,7 +1357,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="37474F" fontStyle="0" fontSize="" fgColor="C00000" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="FFCC00" fontStyle="1" bgColor="6699CC" fontSize="" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="80FFFF" fontStyle="0" bgColor="112435" fontSize="" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="65737E" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="455963" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold" styleID="0" fgColor="6A8088" bgColor="2F383C" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold active" styleID="0" fgColor="50FA7B" fontStyle="0" bgColor="2F383C" fontSize="" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="65737E" bgColor="263238" fontStyle="0" fontSize="" />
