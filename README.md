@@ -30,7 +30,7 @@ The theme makes use of the following font:
 
 - **Source Code Pro** Get it [`HERE`](https://github.com/adobe-fonts/source-code-pro)
 
-Alternately, you can also use the fonts of your choice by changing them in the settings menu after selecting the theme
+Alternately, you can also use the font of your choice by changing them in the settings menu after selecting the theme
 
 `Settings -> Style Configurator -> Global override`
 
