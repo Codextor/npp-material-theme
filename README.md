@@ -28,7 +28,7 @@ To install this awesome theme follow the instructions given below.
 
 The theme makes use of the following two fonts:
 
-- **Fira Code** for the main text. Get it [`HERE`](https://www.fontsquirrel.com/fonts/fira-code)
+- **Source Code Pro** for the main text. Get it [`HERE`](https://github.com/adobe-fonts/source-code-pro)
 - **Colaborate** for the line numbers. Get it [`HERE`](https://www.fontsquirrel.com/fonts/colaborate)
 
 Alternately, you can also use the fonts of your choice by changing them in the settings menu after selecting the theme
