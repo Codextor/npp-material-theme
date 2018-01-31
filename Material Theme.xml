@@ -1348,9 +1348,9 @@ Notepad++ Custom Style
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Global override" styleID="0" fgColor="EEFFFF" bgColor="263238" fontName="Source Code Pro" fontStyle="0" fontSize="12" />
-        <WidgetStyle name="Default Style" styleID="32" fgColor="EEFFFF" bgColor="263238" fontName="Source Code Pro" fontStyle="0" fontSize="12" />
-        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="546E7A" bgColor="546E7A" fontName="" fontStyle="0" fontSize="16" />
+        <WidgetStyle name="Global override" styleID="0" fgColor="EEFFFF" bgColor="263238" fontName="Source Code Pro" fontStyle="0" fontSize="11" />
+        <WidgetStyle name="Default Style" styleID="32" fgColor="EEFFFF" bgColor="263238" fontName="Source Code Pro" fontStyle="0" fontSize="11" />
+        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="546E7A" bgColor="546E7A" fontName="" fontStyle="0" fontSize="14" />
         <WidgetStyle name="Brace highlight style" styleID="34" fontName="" fontStyle="5" fgColor="F3DB2E" bgColor="293134" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FF5370" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="182024" fontStyle="0" fgColor="263238" fontSize="" />
