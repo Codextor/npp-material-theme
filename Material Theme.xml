@@ -1374,7 +1374,7 @@ Notepad++ Custom Style
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="263238" fontStyle="0" fgColor="FAAA3C" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="50FA7B" fontStyle="0" bgColor="50FA7B" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" fontStyle="0" bgColor="0080FF" />
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="EEFFFF" fontStyle="0" bgColor="2F383C" />
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" bgColor="2F383C" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
         <WidgetStyle name="URL hovered" styleID="0" fgColor="FFCC00" fontStyle="0" bgColor="C0C0C0" />
     </GlobalStyles>
