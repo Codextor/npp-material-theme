@@ -68,7 +68,7 @@ For a better experience, using the following settings is recommended
 [Download Icon](https://drive.google.com/uc?id=1IZLO0br_quw7O3Fd8dtrQjLjP3loK9J-&export=download)
 <br/><br/>
 
-- **Mariana Theme for Notepad++:** Try our other theme, inspired from the Mariana theme avaiable for Sublime text 3. Available [`HERE`](https://github.com/Codextor/npp-mariana-theme).  
+- **Mariana Theme for Notepad++:** Try our other theme, inspired from the Mariana theme avaiable for Sublime text 3. Get it [`HERE`](https://github.com/Codextor/npp-mariana-theme).  
 
 ![ss](https://i.imgur.com/4dVExkt.png)
 
