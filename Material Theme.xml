@@ -4,9 +4,9 @@ Notepad++ Custom Style
 
   Style name:    Material Theme
       Author:    Sandeep Pandey
-        Date:    2018-01-17 (last changed 2018-11-01)
+        Date:    2018-01-17 (last changed 2019-10-28)
    Languages:    php, html, css, xml, javascript, python, sql, c, c++, 
-                   assembly, bash, batch, lua, opencl, yaml and everything else more or less...
+                   assembly, bash, batch, lua, opencl, yaml, rust and everything else more or less...
         Info:    Inspired by Material Theme for Sublime Text 3 by Mattia Astorino.
 -->
 <NotepadPlus>
@@ -1048,30 +1048,30 @@ Notepad++ Custom Style
         </LexerType>
         <LexerType name="rust" desc="Rust" ext="">
             <WordsStyle name="DEFAULT" styleID="32" fgColor="EEFFFF" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="WHITESPACE" styleID="0" fgColor="808080" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="BLOCK COMMENT" styleID="1" fgColor="007F00" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="LINE COMMENT" styleID="2" fgColor="007F00" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="BLOCK DOC COMMENT" styleID="3" fgColor="3F703F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="LINE DOC COMMENT" styleID="4" fgColor="3F703F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="5" fgColor="007F7F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="KEYWORDS 1" styleID="6" fgColor="00007F" bgColor="263238" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="KEYWORDS 2" styleID="7" fgColor="00007F" bgColor="263238" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" />
-            <WordsStyle name="KEYWORDS 3" styleID="8" fgColor="00007F" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
-            <WordsStyle name="KEYWORDS 4" styleID="9" fgColor="00007F" bgColor="263238" fontName="" fontStyle="1" fontSize="" keywordClass="type2" />
-            <WordsStyle name="KEYWORDS 5" styleID="10" fgColor="00007F" bgColor="263238" fontName="" fontStyle="1" fontSize="" keywordClass="type3" />
-            <WordsStyle name="KEYWORDS 6" styleID="11" fgColor="00007F" bgColor="263238" fontName="" fontStyle="1" fontSize="" keywordClass="type4" />
-            <WordsStyle name="KEYWORDS 7" styleID="12" fgColor="00007F" bgColor="263238" fontName="" fontStyle="1" fontSize="" keywordClass="type5" />
-            <WordsStyle name="REGULAR STRING" styleID="13" fgColor="7F007F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="RAW STRING" styleID="14" fgColor="B090B0" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="CHARACTER" styleID="15" fgColor="7F007F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="16" fgColor="EEFFFF" bgColor="263238" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="WHITESPACE" styleID="0" fgColor="EEFFFF" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BLOCK COMMENT" styleID="1" fgColor="546E7A" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LINE COMMENT" styleID="2" fgColor="546E7A" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BLOCK DOC COMMENT" styleID="3" fgColor="546E7A" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LINE DOC COMMENT" styleID="4" fgColor="546E7A" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="5" fgColor="F78C6C" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="KEYWORDS 1" styleID="6" fgColor="F78C6C" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="KEYWORDS 2" styleID="7" fgColor="C792EA" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="KEYWORDS 3" styleID="8" fgColor="F07178" bgColor="263238" fontName="" fontStyle="2" fontSize="" keywordClass="type1" />
+            <WordsStyle name="KEYWORDS 4" styleID="9" fgColor="F78C6C" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
+            <WordsStyle name="KEYWORDS 5" styleID="10" fgColor="F78C6C" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="type3" />
+            <WordsStyle name="KEYWORDS 6" styleID="11" fgColor="F78C6C" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
+            <WordsStyle name="KEYWORDS 7" styleID="12" fgColor="F78C6C" bgColor="263238" fontName="" fontStyle="0" fontSize="" keywordClass="type5" />
+            <WordsStyle name="REGULAR STRING" styleID="13" fgColor="C3E88D" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="RAW STRING" styleID="14" fgColor="C3E88D" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="CHARACTER" styleID="15" fgColor="C3E88D" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="OPERATOR" styleID="16" fgColor="C792EA" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="17" fgColor="EEFFFF" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="LIFETIME" styleID="18" fgColor="007F7F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="MACRO" styleID="19" fgColor="7F7F00" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="LEXICAL ERROR" styleID="20" fgColor="EEFFFF" bgColor="E0C0E0" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="BYTE STRING" styleID="21" fgColor="7F007F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="RAW BYTE STRING" styleID="22" fgColor="B090B0" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="BYTE CHARACTER" styleID="23" fgColor="7F007F" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LIFETIME" styleID="18" fgColor="FF8000" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="MACRO" styleID="19" fgColor="2979FF" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="LEXICAL ERROR" styleID="20" fgColor="F44336" bgColor="E0C0E0" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BYTE STRING" styleID="21" fgColor="C3E88D" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="RAW BYTE STRING" styleID="22" fgColor="C3E88D" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="BYTE CHARACTER" styleID="23" fgColor="C3E88D" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="scheme" desc="Scheme" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="EEFFFF" bgColor="263238" fontName="" fontStyle="0" fontSize="" />
