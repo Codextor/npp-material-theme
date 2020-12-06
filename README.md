@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/HiSandy/npp-material-theme"><img width="240px" src="https://i.imgur.com/4flFIjK.png"/></a></p>
 
-# Material Theme for Notepad++
+# Material Theme (dark) for Notepad++
 
 The most epic theme meets Notepad++.
 Inspired by Mattia Astorino's Material Theme for [Sublime Text](https://github.com/equinusocio/material-theme) and [Visual Studio Code](https://github.com/equinusocio/vsc-material-theme).
